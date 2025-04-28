@@ -1,4 +1,7 @@
 # Stock-Analysis-of-Netflix
+
+![MW-HR981_netfli_20190924180534_ZG](https://github.com/user-attachments/assets/efd479ab-24c8-405d-b956-939658d92e18)
+
 # 🎬 Stock Analysis of Netflix (NFLX) – A Data-Driven Dive into the Streaming Giant
 # 🧠 Objective
 This project explores the stock performance of Netflix Inc. (NFLX) through the lens of data analysis and visualization. Using Python and financial data APIs, it uncovers patterns, trends, and technical signals that reflect Netflix’s journey as a major player in the entertainment and tech industry.
