@@ -23,20 +23,17 @@ Time series models like ARIMA or Prophet to predict potential future movement.
 Contrast Netflix’s performance with broader indices like the S&P 500.
 
 # 🧰 Tools & Technologies
-# Language: Python
-
+ Language: Python
 Libraries: pandas, numpy, matplotlib, seaborn, yfinance, plotly, ta, statsmodels
 
-Data Source: Yahoo Finance (via yfinance)
+# Data Source: Yahoo Finance (via yfinance)
 
 # 🌐 Data Source
 Netflix Inc. stock data via yfinance (Yahoo Finance API)
 
 # 🔑 Key Insights
 Netflix stock tends to show strong reactions to earnings and subscriber growth updates.
-
 Technical analysis can help detect overbought or oversold phases, useful for timing trades.
-
 The stock has shown both resilience and volatility in response to broader market trends and internal company shifts.
 
 Combining indicators improves decision-making rather than relying on a single metric.
